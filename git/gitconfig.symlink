@@ -1,6 +1,6 @@
 [user]
-        name = AUTHORNAME
-        email = AUTHOREMAIL
+	name = Andres Salazar
+	email = asalazar@talpor.com
 [credential]
         helper = GIT_CREDENTIAL_HELPER
 [alias]
